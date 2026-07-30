@@ -1,7 +1,8 @@
 # Self-Stabilizing-Twin-Rotor-Control-System
 Introduction
 
-<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/e55d2efe-a898-4452-885f-1303c9306515" />
+<img width="766" height="518" alt="image" src="https://github.com/user-attachments/assets/b6cd5635-292a-4798-9ebc-fb3f712cf6c4" />
+
 
 <img width="954" height="592" alt="image" src="https://github.com/user-attachments/assets/0005bd1c-4d74-4fea-ac8e-11741eace3e7" />
 
